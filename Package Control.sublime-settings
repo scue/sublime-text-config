@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CFG Configuration Syntax Highlighting",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Generic Config",
+		"Git",
+		"GitHub Markdown Snippets",
+		"Gitignore",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeERB",
+		"SyncedSideBar"
+	]
+}

@@ -1,0 +1,14 @@
+{
+   "scope": "text.html.markdown",
+   "completions":
+   [
+      // { "trigger": "link", "contents": "[${1}](${2})${3}" },
+      // { "trigger": "media", "contents": "![](http://media.xxx/pic/${1}.png)" }
+   ],
+
+   // "scope": "source.css",
+   // "completions":
+   // [
+   //    { "trigger": "xxx", "contents": "xxx" },
+   // ]
+}

@@ -1,0 +1,32 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/peacock.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+	"font_face": "文泉驿等宽微米黑",
+	"font_size": 11,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"reveal-on-activate": true,
+	"scroll_past_end": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
