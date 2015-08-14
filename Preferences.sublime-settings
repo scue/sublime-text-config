@@ -17,12 +17,12 @@
 		".vagrant"
 	],
 	"font_face": "文泉驿等宽微米黑",
-	"font_size": 11,
+	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"PHP",
-		"Vintage"
+		"Vintage",
+		"PHP"
 	],
 	"remember_open_files": false,
 	"reveal-on-activate": true,
