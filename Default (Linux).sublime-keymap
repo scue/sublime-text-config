@@ -1,7 +1,7 @@
 [
     // Move out of common paired characters () and [] with `Tab`
     {
-        "keys": ["tab"],
+        "keys": ["ctrl+,"],
         "command": "move",
         "args": {"by": "characters", "forward": true},
         "context": [
@@ -16,7 +16,7 @@
 
     // Move out of single and double quotes with `Tab`
     {
-        "keys": ["tab"],
+        "keys": ["ctrl+,"],
         "command": "move",
         "args": {"by": "characters", "forward": true},
         "context": [
